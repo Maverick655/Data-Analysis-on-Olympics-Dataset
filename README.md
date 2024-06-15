@@ -22,7 +22,11 @@ The dataset used in this project contains records of Olympic athletes and events
 
 ### Source
 
-The dataset can be found in the data folder.
+The dataset can be downloaded from below links.
+
+Athlete: https://drive.google.com/file/d/1y6e0eNKfyo9ILqQHszcrRuv3uQhIMm_z/view
+
+NOC: https://drive.google.com/file/d/1_zGhADzXEA9mFHvuCvpllXMCN2DUE2tH/view
 
 ## Analysis Performed
 
